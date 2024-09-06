@@ -9,59 +9,17 @@
 </head>
 
 <body>
+
     <h1>Taverna Do Historiador</h1>
 
-    <section input> <input type="text" id="buscaHistória" placeholder=""> </section>
-    <section button> <button type="button">Pesquisar</button> </section>
+    <section>
 
-    <h2>
+        <input type="text" id="buscaHistória" placeholder="">
+        <button onclick="pesquisar()"> Pesquisar </button>
 
-        Alguns eventos importantes da história.
+    </section>
 
-    </h2>
-
-    <section class="resultados-pesquisa">
-
-
-        <div class="item-resultado">
-            <a href="https://pt.wikipedia.org/wiki/Primeira_Guerra_Mundial" target="_blank">A Primeira Guerra
-                Mundial:</a>
-            <p class="descricao-meta">
-
-                <strong> </strong> A Primeira Guerra Mundial foi um conflito bélico global centrado na Europa, que
-                começou em 28 de julho de 1914 e durou até 11 de novembro de 1918.
-            </p>
-
-        </div>
-
-        <div class="item-resultado">
-
-            <a href="https://pt.wikipedia.org/wiki/Guerras_de_unificação_da_China" target="_blank">Unificação da
-                China:</a>
-
-            <p class="descricao-meta">
-                <strong></strong> As Guerras de unificação da China foram uma série de campanhas
-                militares ocorridas no final do século III a.C. entre o Estado de Qin e seus rivais: Han, Zhao, Yan,
-                Wei, Chu e Qi. Por volta do ano 221 a.C. o território chinês estava unificado e foi lançada uma
-                campanha de conquista sobre o sul do rio Yangtze.
-
-            </p>
-
-        </div>
-
-        <div class="item-resultado">
-
-            <a href="https://pt.wikipedia.org/wiki/Guerra_do_Paraguai" target="_blank">Guerra do Paraguai:</a>
-
-            <p class="descricao-meta">
-
-                <strong></strong> A Guerra do Paraguai foi o maior conflito armado internacional
-                ocorrido na América Latina. Foi travada entre o Paraguai e a Tríplice Aliança, composta pelo Império
-                do Brasil, Argentina e Uruguai. Ela se estendeu de dezembro de 1864 a março de 1870.
-
-            </p>
-
-        </div>
+    <section class="resultados-pesquisa" id="resultados-pesquisa">
 
     </section>
 
