@@ -37,7 +37,7 @@ Se você é um entusiasta da história, programad@r ou apenas gosta de um bom de
 **#história #programação #javascript #html #css #taverna #medieval #tempo #viagemnotempo**
 
 ---
-**[Jefferson]** 
+**[Jefferson Vitor Silva]** 
 **[Jeffersonvitor006@gmail.com]**
 **[https://github.com/jeff25700]**
 
