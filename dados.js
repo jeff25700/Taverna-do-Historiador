@@ -17,6 +17,6 @@ let dados = [
         titulo: ' Guerra do Paraguai:',
         descricao: 'A Guerra do Paraguai foi o maior conflito armado internacional ocorrido na América Latina. Foi travada entre o Paraguai e a Tríplice Aliança, composta pelo Império do Brasil, Argentina e Uruguai. Ela se estendeu de dezembro de 1864 a março de 1870.',
         link: 'https://pt.wikipedia.org/wiki/Guerra_do_Paraguai',
-        tags: "acre marques de olinda  Marquês de Olinda america do sul"
+        tags: "acre marques de olinda  Marquês de Olinda america"
     }
 ];
