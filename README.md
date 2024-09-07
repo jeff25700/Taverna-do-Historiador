@@ -1,4 +1,4 @@
-## Taverna do Historiador: Seu Portal para o Passado!
+## Taverna do Historiador: Seu Portal para o Passado! - Imersão Dev com Goggle Gimini
 
 **O que é?**
 
@@ -37,17 +37,8 @@ Se você é um entusiasta da história, programad@r ou apenas gosta de um bom de
 **#história #programação #javascript #html #css #taverna #medieval #tempo #viagemnotempo**
 
 ---
-**[Seu nome]** 
-**[Seu email]**
-**[Link para o seu perfil no GitHub]**
+**[Jefferson]** 
+**[Jeffersonvitor006@gmail.com]**
+**[https://github.com/jeff25700]**
 
 ---
-
-**Dicas:**
-
-* Adicione imagens ou GIFs para deixar o README mais divertido e visual.
-* Crie seções específicas para explicar cada parte do código.
-* Use emojis para destacar informações importantes.
-* Incentive a comunidade a participar do projeto. 
-
-Com este README, você terá um guia completo e informativo para o seu projeto, atraindo mais pessoas para a Taverna do Historiador!
